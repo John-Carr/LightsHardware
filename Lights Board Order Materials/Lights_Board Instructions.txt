@@ -1,0 +1,10 @@
+PCB Order Step:
+Remove Order Number: Specify location
+SMT Assembly Step:
+Assemble: Top Side
+Quantity: 5
+
+Contact:
+John Carr
+john.carr@ufl.edu
+(912) 222-4734
