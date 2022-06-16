@@ -34,7 +34,7 @@ fp-info-cache
 
 ### KiCad Patch ###
 rescue-backup/
-SteeringHardware-backups/*
+*backups/*
 
 *.tsv
 bom/
